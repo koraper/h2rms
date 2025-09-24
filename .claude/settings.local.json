@@ -5,7 +5,11 @@
       "Bash(npm run db:test:*)",
       "Bash(npm install:*)",
       "Bash(npm run dev:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(vercel login:*)",
+      "Bash(vercel:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
